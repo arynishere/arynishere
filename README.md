@@ -1,4 +1,13 @@
 
+<div align="center">
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=2000&lines=DevOps+Bash+scripting+leveraging+,+AWS+,+Golang+,+Docker+and+Kubernetes+to+optimize+workflow+and+accelerate+project+delivery+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+
+
+
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
