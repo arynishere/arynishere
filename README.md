@@ -9,7 +9,7 @@
 <div align="center">
 
 
-
+![Bash](https://camo.githubusercontent.com/96300e9237905259adf7e2c48c87089a0940bda262aa009c85f9581f94c48c2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426173682d3030303f266c6f676f3d474e5525323042617368)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
