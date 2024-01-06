@@ -3,9 +3,8 @@
 
 <p align="center">
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=1200&lines=DevOps+Bash+scripting+leveraging+,+AWS+,+Golang+,+Docker+and+Kubernetes+to+optimize+workflow+and+accelerate+project+delivery+%F0%9F%9A%80](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=1200&lines=DevOps+\nBash+scripting+leveraging+,\nAWS+,\nGolang+,\nDocker+and+\nKubernetes+to+\noptimize+workflow+and+\naccelerate+project+delivery+%F0%9F%9A%80
-))](https://git.io/typing-svg)
-  <br><image src=naruto.gif>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C20BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=DevOps+enthusiast+and+avid+advocate+;of+Ubuntu%2C+Bash+scripting%2C+AWS%2C;Golang%2C+Docker%2C+and+Kubernetes%2C+;dedicated+to+optimizing+;+and+accelerating+project+delivery.+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
   </p>
   </div>
 <div align="center">
