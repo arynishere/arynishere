@@ -22,4 +22,4 @@
 
 
 ![Aryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=arynishere&show_icons=true&theme=cobalt)
-[https://github-profile-apple-music.web.app/api/v1/users/5IYSo7G7qHVwnf1HGQyj/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/5IYSo7G7qHVwnf1HGQyj/recent/played/tracks?template=template_3_1)
+![Alt text](https://github-profile-apple-music.web.app/api/v1/users/5IYSo7G7qHVwnf1HGQyj/recent/played/tracks?template=template_3_1)
