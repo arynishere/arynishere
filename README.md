@@ -3,7 +3,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C20BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=DevOps+enthusiast+and+avid+advocate+;of+Ubuntu%2C+Bash+scripting%2C+AWS%2C;Golang%2C+Docker%2C+and+Kubernetes%2C+;dedicated+to+optimizing+;+and+accelerating+project+delivery.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=&color=8C20BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=DevOps+enthusiast+and+avid+advocate+;of+Ubuntu%2C+Bash+scripting%2C+AWS%2C;Golang%2C+Docker%2C+and+Kubernetes%2C+;dedicated+to+optimizing+;+and+accelerating+project+delivery.+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   </p>
   </div>
