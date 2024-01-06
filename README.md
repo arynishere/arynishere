@@ -3,7 +3,8 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=1200&lines=DevOps+Bash+scripting+leveraging+,+AWS+,+Golang+,+Docker+and+Kubernetes+to+optimize+workflow+and+accelerate+project+delivery+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=1200&lines=DevOps+Bash+scripting+leveraging+,+AWS+,+Golang+,+Docker+and+Kubernetes+to+optimize+workflow+and+accelerate+project+delivery+%F0%9F%9A%80](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=C211DE&repeat=false&width=1200&lines=DevOps+\nBash+scripting+leveraging+,\nAWS+,\nGolang+,\nDocker+and+\nKubernetes+to+\noptimize+workflow+and+\naccelerate+project+delivery+%F0%9F%9A%80
+))](https://git.io/typing-svg)
   <br><image src=naruto.gif>
   </p>
   </div>
